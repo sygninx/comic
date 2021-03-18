@@ -7,8 +7,11 @@ For any colors, you can represent them in hexadecimal like this (#FF0000 = red)
 or use this list of available color names: https://www.w3schools.com/cssref/css_colors.asp
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Rosario:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
-    font-family: 'PT Sans', sans-serif;  /* The font of all the text on all pages */
+    font-family: 'Roboto', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
     background-color: white;  /* The color of the background behind everything */
     background-image: url("../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
@@ -40,8 +43,9 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
+    font-family: 'Roboto', sans-serif;
     color: maroon;  /* Color of the navigation bar hyperlinks */
-    font-size: 2em;  /* Size of the navigation bar hyperlinks */
+    font-size: 1em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
 
