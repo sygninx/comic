@@ -12,17 +12,17 @@
    parts of the website after the links bar and before the "Powered by comic_git" footer go. #}
 {%- block content %}
 
-    <h1>Cast</h1>
-<h3>Character 1</h3>
-<p><img src="edit" alt="description" /></p>
-<p>This is a description of the character</p>
-<p>&nbsp;</p>
-<h3>Character 2</h3>
-<p><img src="edit" alt="description" /></p>
-<p>This is a description of the character</p>
-<p>&nbsp;</p>
-<h3>Character 3</h3>
-<p><img src="edit" alt="description" /></p>
-<p>This is a description of the character</p>
+<h1 style="text-align: left;">Cast</h1>
+<h3 style="text-align: left;">Character 1</h3>
+<p style="text-align: left;"><img src="../../your_content/images/ch3.png" alt="this is a test" /></p>
+<p style="text-align: left;">This is a description of the character</p>
+<p style="text-align: left;">&nbsp;</p>
+<h3 style="text-align: left;">Character 2</h3>
+<p style="text-align: left;"><img src="edit" alt="description" /></p>
+<p style="text-align: left;">This is a description of the character</p>
+<p style="text-align: left;">&nbsp;</p>
+<h3 style="text-align: left;">Character 3</h3>
+<p style="text-align: left;"><img src="edit" alt="description" /></p>
+<p style="text-align: left;">This is a description of the character</p>
 
 {%- endblock %}
