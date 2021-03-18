@@ -14,11 +14,11 @@
 
 <h1 style="text-align: left;">Cast</h1>
 <h3 style="text-align: left;">Character 1</h3>
-<p style="text-align: left;"><img src="../your_content/images/ch3.png" alt="this is a test" /></p>
+<p style="text-align: left;"><img src="https://sygninx.github.io/comic/your_content/images/Ch3.png" alt="this is a test" /></p>
 <p style="text-align: left;">This is a description of the character</p>
 <p style="text-align: left;">&nbsp;</p>
 <h3 style="text-align: left;">Character 2</h3>
-<p style="text-align: left;"><img src="edit" alt="description" /></p>
+<p style="text-align: left;"><img src="https://sygninx.github.io/comic/your_content/images/Ch4.png" alt="description" /></p>
 <p style="text-align: left;">This is a description of the character</p>
 <p style="text-align: left;">&nbsp;</p>
 <h3 style="text-align: left;">Character 3</h3>
