@@ -12,7 +12,7 @@
    parts of the website after the links bar and before the "Powered by comic_git" footer go. #}
 {%- block content %}
 
-<table style="height: 78px; width: 600px;">
+<table style="height: 78px; width: 600px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="height: 56px;">
 <td style="width: 744px; height: 56px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sygninx.github.io/comic/your_content/images/banner.png" alt="header" width="400" height="63" /></td>
@@ -23,12 +23,12 @@
 </td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 744px; height: 18px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ipsum, id commodo metus dignissim id. Sed ullamcorper, dui ut bibendum tempus, ante urna suscipit massa, et convallis risus ligula consequat ligula. In maximus auctor dictum. Duis sapien quam, consectetur condimentum luctus ut, pellentesque in turpis. Donec facilisis, enim.</td>
+<td style="width: 744px; height: 18px; text-align: justify;">This is a bunch of stuff about the character. Blah blah blah blah blah.</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<table style="height: 78px; width: 600px;">
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 78px; width: 600px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="height: 56px;">
 <td style="width: 744px; height: 56px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sygninx.github.io/comic/your_content/images/banner.png" alt="header" width="400" height="63" /></td>
@@ -43,8 +43,8 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<table style="height: 78px; width: 600px;">
+<p style="text-align: center;">&nbsp;</p>
+<table style="height: 78px; width: 600px; margin-left: auto; margin-right: auto;">
 <tbody>
 <tr style="height: 56px;">
 <td style="width: 744px; height: 56px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sygninx.github.io/comic/your_content/images/banner.png" alt="header" width="400" height="63" /></td>
