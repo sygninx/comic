@@ -1,3 +1,1 @@
-Support the comic on Patreon! 
-
-<img src = your_content/images/banner.png /img>
+<a href="http://www.patreon.com/sygnin"><img src = https://sygninx.github.io/comic/your_content/images/banner-patreon.png /img></a>
