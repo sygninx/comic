@@ -12,17 +12,52 @@
    parts of the website after the links bar and before the "Powered by comic_git" footer go. #}
 {%- block content %}
 
-<h1 style="text-align: left;">Cast</h1>
-<h3 style="text-align: left;">Character 1</h3>
-<p style="text-align: left;"><img src="https://sygninx.github.io/comic/your_content/images/Ch3.png" alt="this is a test" /></p>
-<p style="text-align: left;">This is a description of the character</p>
-<p style="text-align: left;">&nbsp;</p>
-<h3 style="text-align: left;">Character 2</h3>
-<p style="text-align: left;"><img src="https://sygninx.github.io/comic/your_content/images/Ch4.png" alt="description" /></p>
-<p style="text-align: left;">This is a description of the character</p>
-<p style="text-align: left;">&nbsp;</p>
-<h3 style="text-align: left;">Character 3</h3>
-<p style="text-align: left;"><img src="edit" alt="description" /></p>
-<p style="text-align: left;">This is a description of the character</p>
+<table style="height: 78px; width: 600px;">
+<tbody>
+<tr style="height: 56px;">
+<td style="width: 744px; height: 56px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sygninx.github.io/comic/your_content/images/banner.png" alt="header" width="400" height="63" /></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 744px; height: 18px; text-align: center;">
+<h3>&nbsp;Character 1</h3>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 744px; height: 18px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ipsum, id commodo metus dignissim id. Sed ullamcorper, dui ut bibendum tempus, ante urna suscipit massa, et convallis risus ligula consequat ligula. In maximus auctor dictum. Duis sapien quam, consectetur condimentum luctus ut, pellentesque in turpis. Donec facilisis, enim.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="height: 78px; width: 600px;">
+<tbody>
+<tr style="height: 56px;">
+<td style="width: 744px; height: 56px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sygninx.github.io/comic/your_content/images/banner.png" alt="header" width="400" height="63" /></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 744px; height: 18px; text-align: center;">
+<h3>&nbsp;Character 2</h3>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 744px; height: 18px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ipsum, id commodo metus dignissim id. Sed ullamcorper, dui ut bibendum tempus, ante urna suscipit massa, et convallis risus ligula consequat ligula. In maximus auctor dictum. Duis sapien quam, consectetur condimentum luctus ut, pellentesque in turpis. Donec facilisis, enim.</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table style="height: 78px; width: 600px;">
+<tbody>
+<tr style="height: 56px;">
+<td style="width: 744px; height: 56px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://sygninx.github.io/comic/your_content/images/banner.png" alt="header" width="400" height="63" /></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 744px; height: 18px; text-align: center;">
+<h3>&nbsp;Character 3</h3>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 744px; height: 18px; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor ex ipsum, id commodo metus dignissim id. Sed ullamcorper, dui ut bibendum tempus, ante urna suscipit massa, et convallis risus ligula consequat ligula. In maximus auctor dictum. Duis sapien quam, consectetur condimentum luctus ut, pellentesque in turpis. Donec facilisis, enim.</td>
+</tr>
+</tbody>
+</table>
 
 {%- endblock %}
