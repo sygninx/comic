@@ -7,8 +7,8 @@ body {
 div#container {
     display: inline-block;
     text-align: center;
-    margin: 15px;
-    padding: 30px;
+    margin: 0px;
+    padding: 0px;
 }
 
 div img {
@@ -16,14 +16,14 @@ div img {
 }
 
 div#banner {
-    margin-bottom: 15px;
+    margin-bottom: 0px;
 }
 
 div#links-bar {
-    margin-bottom: 15px;
+    margin-bottom: 0;
     padding: 5px;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 a.link-bar-link {
@@ -44,7 +44,7 @@ div#comic-page {
 
 div#navigation-bar {
     display: flex;
-    margin: 0 auto 20px auto;
+    margin: 0 auto 0px auto;
     font-weight: bold;
     justify-content: center;
 }
