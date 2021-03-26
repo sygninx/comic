@@ -12,7 +12,7 @@ or use this list of available color names: https://www.w3schools.com/cssref/css_
 
 body {
     font-family: 'Open Sans', sans-serif;  /* The font of all the text on all pages */
-    color: black;  /* The color of the font of most of the text on your website */
+    color: white;  /* The color of the font of most of the text on your website */
     background-color: black;  /* The color of the background behind everything */
     
 }
@@ -23,7 +23,7 @@ a {
 
 div#container {
     max-width: 940px;  /* The width of the main box that contains all content on the pages */
-    background-color: white;  /* The background color of the main box */
+    background-color: black;  /* The background color of the main box */
     /* box-shadow: 5px 5px 10px lightgray;  If you change the background color of website, play with this or else it will look bad. */
 }
 
@@ -32,6 +32,7 @@ div#links-bar {
 }
 
 a.link-bar-link {
+    font-family: 'Bebas Neue', sans-serif;
     color: white;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
@@ -56,15 +57,15 @@ a.navigation-button-disabled {
 }
 
 div#blurb {
-    background-color: lightgray;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
-    width: 75%;  /* The maximum width of the blurb box. */
+    background-color: black;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    width: 100%;  /* The maximum width of the blurb box. */
     border-left: none;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
     border-right: none;
 }
 
 h1#page-title {
-    color: black;  /* Color of the page title */
-    font-size: 2em;  /* Font size of the post title */
+    color: white;  /* Color of the page title */
+    font-size: 1.5em;  /* Font size of the post title */
 }
 
 div#post-date {
