@@ -7,14 +7,15 @@ For any colors, you can represent them in hexadecimal like this (#FF0000 = red)
 or use this list of available color names: https://www.w3schools.com/cssref/css_colors.asp
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rosario:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
-    font-family: 'Open Sans', sans-serif;  /* The font of all the text on all pages */
+    font-family: 'Roboto', sans-serif;  /* The font of all the text on all pages */
     color: black;  /* The color of the font of most of the text on your website */
-    background-color: black;  /* The color of the background behind everything */
-    
+    background-color: white;  /* The color of the background behind everything */
+    background-image: url("../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
+                                                       or replace with your own image to tile across your background. */
 }
 
 a {
@@ -42,14 +43,14 @@ a.link-bar-link:hover {
 }
 
 a.navigation-button {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: maroon;  /* Color of the navigation bar hyperlinks */
     font-size: 1.5em;  /* Size of the navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
 }
 
 a.navigation-button-disabled {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: gray;  /* Color of the disabled navigation bar hyperlinks */
     font-size: 1.5em;  /* Size of the disabled navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
