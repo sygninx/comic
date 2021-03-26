@@ -37,6 +37,7 @@ a.link-bar-link {
     color: white;  /* The color of the links in your links bar */
     font-weight: bold;  /* Delete this to unbold the links in your links bar*/
     text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+    text-transform: uppercase;
 }
 
 a.link-bar-link:hover {
@@ -51,7 +52,7 @@ a.navigation-button {
 }
 
 a.navigation-button-disabled {
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     color: gray;  /* Color of the disabled navigation bar hyperlinks */
     font-size: 1.5em;  /* Size of the disabled navigation bar hyperlinks */
     text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
